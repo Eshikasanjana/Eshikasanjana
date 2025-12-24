@@ -14,7 +14,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi there 👋, I'm Eshika Sanjana</h1>
-<h3 align="center">An undergraduate student who completed a B.Tech in Computer Science Engineering with a specialization in Data Science.</h3>
+<h3 align="center">
+A graduate student who completed a Master’s degree in Computer Science at Virginia Commonwealth University, with hands-on experience in data science, backend development, and cloud-based applications.
+</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eshikasanjana&label=Profile%20views&color=0e75b6&style=flat" alt="eshikasanjana" /> </p>
 
