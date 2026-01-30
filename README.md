@@ -27,7 +27,12 @@ A graduate student who completed a Master’s degree in Computer Science at Virg
 - 👯 I’m looking to collaborate on **Data Science projects and Frontend applications**
 
 - 👨‍💻 All of my projects are available at [https://github.com/KLH-Coders](https://github.com/KLH-Coders)
-
+- 
+### 📊 GitHub Stats
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=eshikasanjana&show_icons=true&theme=radical" alt="Eshika's GitHub Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eshikasanjana&layout=compact&theme=radical" alt="Top Langs" height="150" />
+</p>
 - 📫 How to reach me **2010030521cse@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
