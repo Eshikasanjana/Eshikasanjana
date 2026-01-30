@@ -27,7 +27,25 @@ A graduate student who completed a Master’s degree in Computer Science at Virg
 - 👯 I’m looking to collaborate on **Data Science projects and Frontend applications**
 
 - 👨‍💻 All of my projects are available at [https://github.com/KLH-Coders](https://github.com/KLH-Coders)
-- 
+
+### 🛠️ Tech Stack & Tools
+
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | Python, Java, C++, SQL, HTML/CSS |
+| **Data Science** | Machine Learning, Data Analytics, MySQL |
+| **Web & Backend** | Django (Learning), React.js (Learning), Backend APIs |
+| **Cloud & Tools** | Git, Cloud-based App Deployment |
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="python" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" alt="java" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="mysql" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="cplusplus" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" alt="html5" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40" alt="css3" />
+</p>
+
 ### 📊 GitHub Stats
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=eshikasanjana&show_icons=true&theme=radical" alt="Eshika's GitHub Stats" height="150" />
