@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi there 👋, I'm Eshika Sanjana</h1>
+<h1 align="center">Hi there 👋</h1>
 <h3 align="center">
 A graduate student who completed a Master’s degree in Computer Science at Virginia Commonwealth University, with hands-on experience in data science, backend development, and cloud-based applications.
 </h3>
